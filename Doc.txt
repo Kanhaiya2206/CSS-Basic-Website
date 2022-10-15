@@ -1,0 +1,8 @@
+*for icons we can use flaticon.com
+*for animated images GIFs we can use giphy.com
+*when using font size in css we can use px,em,%.100%=16px and 1em=16px
+*frontendmentor.io
+*awwwards.com for taking help from other websites 
+*ui-patterns.com
+*dribble.com for making prototype of your websites
+*balsamiq.cloud also used for making prototypes or we can say wireframes
